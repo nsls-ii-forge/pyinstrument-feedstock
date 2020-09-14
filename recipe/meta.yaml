@@ -21,6 +21,7 @@ requirements:
   host:
     - python
     - pip
+    - nodejs
   run:
     - python
     - pyinstrument_cext >=0.2.2
