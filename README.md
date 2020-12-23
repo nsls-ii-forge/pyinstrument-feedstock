@@ -5,11 +5,11 @@ Home: https://github.com/joerick/pyinstrument
 
 Package license: BSD-3-Clause
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/nsls-ii-forge/pyinstrument-feedstock/blob/master/LICENSE.txt)
 
 Summary: 🚴 Call stack profiler for Python. Shows you why your code is slow!
 
-
+Development: https://github.com/joerick/pyinstrument
 
 Current build status
 ====================
